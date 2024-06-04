@@ -1,4 +1,6 @@
 Stack using Array
+#include<stdio.h>
+#include<stdlib.h>
 stack[100],i,j,choice=0,n,top=-1;  
 void push();  
 void pop();  
@@ -79,7 +81,7 @@ void show()
 
 
 Stack using Linkedlist 
-include <stdio.h>  
+#include <stdio.h>  
 #include <stdlib.h>  
 void push();  
 void pop();  

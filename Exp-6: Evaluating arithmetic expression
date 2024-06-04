@@ -2,8 +2,6 @@
 
 #include <string.h>
 
-#include<ctype.h>
-
 int top = -1;
 
 int stack[100];
